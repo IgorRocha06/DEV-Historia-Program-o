@@ -1,0 +1,67 @@
+body {
+    background: #ffffff;
+    }
+    
+    header {
+        background: #6e2d84;
+        padding: 50px 0;
+    }
+
+    #banner {
+        position: relative;
+        width: 25%;
+        top: 0px;
+        left: 2%;
+    }
+    
+    .caixa {
+        position: relative;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    nav {
+        position: absolute;
+        top: 170px;
+        right: 40px;
+    }
+
+    nav li {
+        display: inline;
+        margin: 0 0 0 15px;
+    }
+
+    nav a {
+        text-transform: uppercase;
+        color:#ffffff ;
+        font-weight: boed95ld;
+        font-size: 20px;
+        text-decoration: none;
+        margin: 5px;
+    }
+
+    nav a:hover {
+        color: #7ed957;
+        text-decoration: underline;
+    }
+    
+    .h1 {
+    
+        font-size: 50px;
+        font-style: unset;
+
+    }
+
+    .p {
+        font-size: 25px;
+        font-style: unset;
+    }
+
+    .img {
+        left: 50px;
+    }
+
+    #capa {
+        width: 50%;
+        left: 50px;
+    }
