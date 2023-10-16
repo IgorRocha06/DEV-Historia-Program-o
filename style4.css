@@ -55,3 +55,21 @@ body {
         color: #7ed957;
         text-decoration: underline;
     }
+    
+    #titulo {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .p {
+        font-size: 23px;
+        margin: 10px 7% 0 7%;
+    }
+
+    .p1{
+        font-size: 23px;
+    }
+
+    .disc{
+        margin: 10px 7% 0 7%;
+    }

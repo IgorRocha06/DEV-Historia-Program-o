@@ -1,67 +1,45 @@
 body {
-    background: #ffffff;
+    background-image: url(wallpaper2.jpg);
+    width: 100%;
+    height: 100%;
     }
     
-    header {
-        background: #6e2d84;
-        padding: 50px 0;
-    }
-
     #banner {
         position: relative;
-        width: 25%;
-        top: 0px;
-        left: 2%;
+        width: 50%;
+        top: 50px;
+        left: 25%;
     }
     
-    .caixa {
-        position: relative;
-        width: 80%;
-        margin: 0 auto;
-    }
-
-    nav {
+    table {
         position: absolute;
-        top: 170px;
-        right: 40px;
+        top: 55%;
+        right: 0.5%;
+        left: 0.5%;
+    }
+    
+    table td {
+        text-align: center;
+        width:28%;
+        background-color: transparent;
     }
 
-    nav li {
-        display: inline;
-        margin: 0 0 0 15px;
-    }
-
-    nav a {
+    table a {
         text-transform: uppercase;
         color:#ffffff ;
         font-weight: boed95ld;
-        font-size: 20px;
+        font-size: 200%;
         text-decoration: none;
-        margin: 5px;
+        margin: 0;
+        text-align: center;
     }
 
-    nav a:hover {
-        color: #7ed957;
+    table a:hover {
+        color: #ffffff;
         text-decoration: underline;
-    }
-    
-    .h1 {
-    
-        font-size: 50px;
-        font-style: unset;
-
     }
 
     .p {
-        font-size: 25px;
-        font-style: unset;
-    }
-
-    .img {
-        left: 50px;
-    }
-
-    #capa {
-        width: 50%;
-        left: 50px;
+        font-size: 250%;
+        margin-bottom: 0;
     }
