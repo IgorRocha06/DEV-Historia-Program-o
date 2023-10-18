@@ -1,0 +1,61 @@
+body {
+    background: #ffffff;
+    }
+    
+    header {
+        background: #6e2d84;
+        padding: 50px 0;
+    }
+
+    #banner {
+        position: relative;
+        width: 25%;
+        height: 35%;
+        top: 0px;
+    }
+
+    nav {
+        position: absolute;
+        top: 150px;
+        right: 40px;
+    }
+
+    nav li {
+        display: inline;
+        margin: 0 0 0 15px;
+    }
+
+    nav a {
+        text-transform: uppercase;
+        color:#ffffff ;
+        font-weight: boed95ld;
+        font-size: 20px;
+        text-decoration: none;
+        margin: 5px;
+    }
+
+    nav a:hover {
+        color: #7ed957;
+        text-decoration: underline;
+    }
+
+    .h1{
+        font-size: 40px;
+        margin: 10px 7% 0 7%;
+        text-align: center;
+    }
+    
+    .h {
+        font-size: 30px;
+        margin: 10px 7% 0 7%;
+    }
+
+    .p {
+        font-size: 23px;
+        margin: 10px 7% 0 7%;
+    }
+
+    .p1{
+        font-size: 18px;
+        margin: 10px 7% 0 7%;
+    }
