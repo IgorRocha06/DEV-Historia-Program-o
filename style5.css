@@ -42,7 +42,7 @@ body {
     .sumario {
         font-size: 30px;
         margin: 10px 7% 0 7%;
-        line-height: 45px;
+        line-height: 43px;
         color: black;
     }
 
@@ -69,4 +69,10 @@ body {
 
     footer {
         background: #6e2d84;
+        text-align: center;
+    }
+
+    #git{
+        width: 10%;
+        height: 20%;
     }
